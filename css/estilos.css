@@ -1,0 +1,60 @@
+/* Header */
+header div h5 {
+	text-align: center;
+	font-family: Avantgarde;
+}
+h1 {
+	text-align: center;
+	font-family: Avantgarde;
+	padding-top: 30px;
+}
+
+h1 {
+	font-size: 70px;
+}
+header img {
+	width: 80%;
+	margin: auto;
+}
+
+/* ARTICLES*/
+article {
+	padding-bottom: 20px;
+	margin-top: 20px;
+}
+article img {
+	width: 50%;
+	margin: auto;
+}
+article p {
+	height: 100px;
+}
+
+article .text {
+	height: 160px;
+}
+h3,
+h4 {
+	text-align: center;
+}
+/* ASIDE*/
+aside {
+	padding-top: 12px;
+	margin-top: 12px;
+}
+aside h3 {
+	margin-top: 12px;
+}
+aside div {
+	padding-bottom: 12px;
+}
+
+/* FOOTER */
+footer p {
+	margin: 0;
+	text-align: center;
+}
+footer {
+	margin: 20px;
+	padding: 12px;
+}
